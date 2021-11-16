@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{B78BD15B-CD6F-4C43-B0CA-27A39AABA0CE}|Default">
+  <MonoDevelop.Ide.ItemProperties.APITestsUsers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="APITestsUsers/APITests.cs">
+    <Files>
+      <File FileName="APITestsUsers/APITests.cs" Line="61" Column="89" />
+      <File FileName="APITestsUsers/Models/CreateCompanyRequestModel.cs" Line="13" Column="1" />
+      <File FileName="APITestsUsers/Helpers/DataHelper.cs" Line="48" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="APITestsUsers" expanded="True">
+            <Node name="APITestsUsers" expanded="True">
+              <Node name="Helpers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="APITests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="APITestsUsers" expanded="True" selected="True">
+            <Node name="APITestsUsers" expanded="True">
+              <Node name="APITestsUsers" expanded="True">
+                <Node name="Tests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
