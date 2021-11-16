@@ -4654,11 +4654,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mmolostvova/Projects/!DevEducationQA/HW15APITests/APITestsUsers/APITestsUsers/APITestsUsers.csproj",
+      "projectUniqueName": "/Users/mmolostvova/Projects/!DevEducationQA/HW15APITests/HW15/APITestsUsers/APITestsUsers.csproj",
       "projectName": "APITestsUsers",
-      "projectPath": "/Users/mmolostvova/Projects/!DevEducationQA/HW15APITests/APITestsUsers/APITestsUsers/APITestsUsers.csproj",
+      "projectPath": "/Users/mmolostvova/Projects/!DevEducationQA/HW15APITests/HW15/APITestsUsers/APITestsUsers.csproj",
       "packagesPath": "/Users/mmolostvova/.nuget/packages/",
-      "outputPath": "/Users/mmolostvova/Projects/!DevEducationQA/HW15APITests/APITestsUsers/APITestsUsers/obj/",
+      "outputPath": "/Users/mmolostvova/Projects/!DevEducationQA/HW15APITests/HW15/APITestsUsers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mmolostvova/.config/NuGet/NuGet.Config"

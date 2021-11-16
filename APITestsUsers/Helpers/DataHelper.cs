@@ -36,5 +36,17 @@ namespace APITestsUsers.Helpers
             };
             return user;
         }
+
+        public static CreateCompanyRequestModel FillCreateCompanyRequestModel()
+        {
+            CreateCompanyRequestModel company = new CreateCompanyRequestModel
+            {
+                CompanyName = "comp" + Helper.MakeName(),
+                CompanyType = "ООО",
+                CompanyUsers = new string[3] { Helper.MakeEmail(), Helper.MakeEmail(), Helper.MakeEmail() },
+                EmailOwner = "kot@kot.kot"
+            };
+            return company;
+        }
     }
 }

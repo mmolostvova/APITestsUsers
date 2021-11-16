@@ -53,5 +53,18 @@ namespace APITestsUsers
             Assert.AreEqual(HttpStatusCode.OK, response.StatusCode);
         }
 
+        [Test]
+        public void CreateCompanyValidTest()
+        {
+            // Arrange
+            RequestHelper request = new RequestHelper("http://users.bugred.ru/tasks/rest/createcompany");
+            CreateCompanyRequestModel body = DataHelper.FillCreateCompanyRequestModel();
+
+            // Act
+            IRestResponse response = request.SendPostRequest(body);
+
+            // Assert
+            Assert.AreEqual(HttpStatusCode.OK, response.StatusCode);
+        }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H1dtOR+/RdrlaP1S6kw0DAuPB6+6amfP2lvF9zARPqbr7T5voZpcQVUnP4wPm+Lv3GN/J0PLAYhZ2Xa60rrVPg==",
+  "dgSpecHash": "OEe+eU+v3Mfs/dC0VTvwdU0fpxy9I8YBhGeyYSaSdRwtads8USsgDeMJ7JKYITFuKMPz/PTQTv7FchbMLyLJCA==",
   "success": true,
-  "projectFilePath": "/Users/mmolostvova/Projects/!DevEducationQA/HW15APITests/APITestsUsers/APITestsUsers/APITestsUsers.csproj",
+  "projectFilePath": "/Users/mmolostvova/Projects/!DevEducationQA/HW15APITests/HW15/APITestsUsers/APITestsUsers.csproj",
   "expectedPackageFiles": [
     "/Users/mmolostvova/.nuget/packages/microsoft.codecoverage/16.5.0/microsoft.codecoverage.16.5.0.nupkg.sha512",
     "/Users/mmolostvova/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",
